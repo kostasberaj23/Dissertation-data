@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks,Match Report
+2021-08-22,18:30,Serie A,Matchweek 1,Sun,Away,D,2,2,Udinese,551,503,48,15,0,29,16,7,3,1,1,0,424,66,61,200,306,10,22,8,480,2,5,8,13,Match Report
+2021-08-28,20:45,Serie A,Matchweek 2,Sat,Home,L,0,1,Empoli,461,414,47,8,1,27,41,27,8,3,3,0,306,66,89,188,227,15,22,7,377,1,16,12,9,Match Report
+2021-09-11,18:00,Serie A,Matchweek 3,Sat,Away,L,1,2,Napoli,330,287,43,15,1,47,10,7,1,0,1,0,220,52,58,120,174,11,13,5,264,3,8,8,6,Match Report
+2021-09-14,21:00,Champions Lg,Group stage,Tue,Away,W,3,0,se Malmö,666,631,35,12,5,57,13,11,3,0,3,0,491,79,96,210,420,13,12,6,585,4,5,15,10,Match Report
+2021-09-19,20:45,Serie A,Matchweek 4,Sun,Home,D,1,1,Milan,413,370,43,16,1,75,19,5,4,4,0,0,281,65,67,146,233,7,12,12,343,2,6,17,11,Match Report
+2021-09-22,18:30,Serie A,Matchweek 5,Wed,Away,W,3,2,Spezia,548,490,58,12,0,94,28,15,15,5,8,0,337,105,106,176,311,15,22,5,458,0,4,12,12,Match Report
+2021-09-26,12:30,Serie A,Matchweek 6,Sun,Home,W,3,2,Sampdoria,478,428,50,17,0,54,22,9,4,2,2,0,327,63,88,137,298,14,19,3,387,0,11,13,13,Match Report
+2021-09-29,21:00,Champions Lg,Group stage,Wed,Home,W,1,0,eng Chelsea,320,274,46,18,1,48,14,2,1,0,0,0,196,53,71,108,161,14,16,9,236,4,2,15,11,Match Report
+2021-10-02,18:00,Serie A,Matchweek 7,Sat,Away,W,1,0,Torino,488,437,51,21,1,78,13,6,6,3,0,0,301,75,112,176,243,25,14,10,386,0,7,14,10,Match Report
+2021-10-17,20:45,Serie A,Matchweek 8,Sun,Home,W,1,0,Roma,505,472,33,16,0,73,18,8,0,0,0,0,372,50,83,150,322,9,8,9,426,3,9,15,6,Match Report
+2021-10-20,22:00 (21:00),Champions Lg,Group stage,Wed,Away,W,1,0,ru Zenit,611,564,47,9,2,55,26,19,4,1,0,0,417,100,94,166,390,17,29,3,522,0,8,19,6,Match Report
+2021-10-24,20:45,Serie A,Matchweek 9,Sun,Away,D,1,1,Inter,533,495,38,13,2,91,21,11,2,0,2,0,375,70,88,166,318,15,16,3,443,2,8,11,13,Match Report
+2021-10-27,18:30,Serie A,Matchweek 10,Wed,Home,L,1,2,Sassuolo,558,516,42,15,0,81,14,21,4,0,3,0,403,70,85,156,352,14,16,7,471,7,5,13,8,Match Report
+2021-10-30,18:00,Serie A,Matchweek 11,Sat,Away,L,1,2,Hellas Verona,590,526,64,25,0,87,21,13,1,0,1,0,394,74,122,176,327,17,29,15,477,0,7,23,16,Match Report
+2021-11-02,21:00 (22:00),Champions Lg,Group stage,Tue,Home,W,4,2,ru Zenit,632,600,32,6,2,91,21,19,5,0,2,0,479,73,80,234,352,14,10,11,558,1,5,10,8,Match Report
+2021-11-06,18:00 (19:00),Serie A,Matchweek 12,Sat,Home,W,1,0,Fiorentina,428,384,44,16,0,25,17,11,5,0,3,0,291,48,89,116,269,16,12,4,344,4,7,17,5,Match Report
+2021-11-20,18:00 (19:00),Serie A,Matchweek 13,Sat,Away,W,2,0,Lazio,505,469,36,10,0,47,19,6,2,2,0,0,367,62,76,141,314,15,17,11,431,0,4,11,13,Match Report
+2021-11-23,20:00 (22:00),Champions Lg,Group stage,Tue,Away,L,0,4,eng Chelsea,467,415,52,13,1,66,16,2,3,0,3,0,322,71,74,143,261,21,24,3,384,0,10,19,9,Match Report
+2021-11-27,18:00 (19:00),Serie A,Matchweek 14,Sat,Home,L,0,1,Atalanta,586,532,54,19,2,86,17,12,6,1,2,1,386,91,109,214,301,17,25,8,491,1,13,13,6,Match Report
+2021-11-30,20:45 (21:45),Serie A,Matchweek 15,Tue,Away,W,2,0,Salernitana,850,816,34,13,0,68,19,13,4,0,3,1,723,51,76,370,446,13,12,4,775,2,6,15,11,Match Report
+2021-12-05,20:45 (21:45),Serie A,Matchweek 16,Sun,Home,W,2,0,Genoa,785,754,31,7,1,76,24,14,4,0,2,1,639,74,72,345,390,10,19,12,705,2,5,16,20,Match Report
+2021-12-08,18:45 (19:45),Champions Lg,Group stage,Wed,Home,W,1,0,se Malmö,674,637,37,11,0,118,16,12,4,2,2,0,522,54,98,227,385,21,18,5,573,0,8,11,13,Match Report
+2021-12-11,18:00 (19:00),Serie A,Matchweek 17,Sat,Away,D,1,1,Venezia,611,561,50,19,0,64,27,14,11,8,0,0,444,42,125,214,344,14,13,13,501,0,4,17,16,Match Report
+2021-12-18,18:00 (19:00),Serie A,Matchweek 18,Sat,Away,W,2,0,Bologna,435,399,36,7,1,62,18,11,3,1,2,0,265,66,104,135,241,17,18,6,346,1,5,17,9,Match Report
+2021-12-21,20:45 (21:45),Serie A,Matchweek 19,Tue,Home,W,2,0,Cagliari,623,579,44,13,0,94,21,13,7,4,3,0,453,55,115,176,380,23,19,3,528,3,5,17,15,Match Report
+2022-01-06,20:45 (21:45),Serie A,Matchweek 20,Thu,Home,D,1,1,Napoli,493,458,35,10,0,26,12,11,4,0,4,0,343,57,93,157,294,18,14,5,420,1,5,8,6,Match Report
+2022-01-09,18:30 (19:30),Serie A,Matchweek 21,Sun,Away,W,4,3,Roma,417,379,38,11,0,49,9,6,1,0,1,0,299,39,79,117,256,12,18,8,349,0,6,16,6,Match Report
+2022-01-12,21:00 (22:00),Supercoppa Italiana,Supercoppa Italiana,Wed,Away,L,1,2,Inter,,,,,,,,17,,,,,,,,,,,,,,,,,,Match Report
+2022-01-15,20:45 (21:45),Serie A,Matchweek 22,Sat,Home,W,2,0,Udinese,710,677,33,9,0,50,31,18,7,2,2,0,529,101,80,215,441,22,10,11,621,1,9,17,14,Match Report
+2022-01-18,21:00 (22:00),Coppa Italia,Round of 16,Tue,Home,W,4,1,Sampdoria,,,,,,,,27,,,,,,,,,,,,,,,,,,Match Report
+2022-01-23,20:45 (21:45),Serie A,Matchweek 23,Sun,Away,D,0,0,Milan,559,521,38,18,0,44,18,10,1,1,0,0,410,62,87,209,296,21,14,8,478,3,10,17,3,Match Report
+2022-02-06,20:45 (21:45),Serie A,Matchweek 24,Sun,Home,W,2,0,Hellas Verona,461,413,48,13,2,89,13,8,6,3,1,0,321,48,92,139,281,12,17,3,362,0,5,17,12,Match Report
+2022-02-10,21:00 (22:00),Coppa Italia,Quarter-finals,Thu,Home,W,2,1,Sassuolo,,,,,,,,24,,,,,,,,,,,,,,,,,,Match Report
+2022-02-13,20:45 (21:45),Serie A,Matchweek 25,Sun,Away,D,1,1,Atalanta,504,454,50,13,0,50,14,12,8,7,0,0,326,76,102,141,310,17,20,5,396,3,5,19,20,Match Report
+2022-02-18,20:45 (21:45),Serie A,Matchweek 26,Fri,Home,D,1,1,Torino,412,362,50,20,0,92,10,6,7,3,3,0,269,59,84,138,214,14,17,12,318,0,3,10,12,Match Report
+2022-02-22,21:00 (22:00),Champions Lg,Round of 16,Tue,Away,D,1,1,es Villarreal,484,445,39,12,0,39,18,7,0,0,0,0,340,54,90,135,305,20,14,6,397,3,13,12,13,Match Report
+2022-02-26,18:00 (19:00),Serie A,Matchweek 27,Sat,Away,W,3,2,Empoli,463,412,51,18,2,50,9,9,3,3,0,0,338,33,92,129,301,8,13,5,372,0,12,16,7,Match Report
+2022-03-02,21:00 (22:00),Coppa Italia,Semi-finals,Wed,Away,W,1,0,Fiorentina,,,,,,,,8,,,,,,,,,,,,,,,,,,Match Report
+2022-03-06,18:00 (19:00),Serie A,Matchweek 28,Sun,Home,W,1,0,Spezia,616,574,42,13,2,75,15,5,4,1,3,0,440,78,98,163,405,12,19,7,534,2,10,12,8,Match Report
+2022-03-12,18:00 (19:00),Serie A,Matchweek 29,Sat,Away,W,3,1,Sampdoria,592,553,39,6,1,45,21,9,0,0,0,0,457,61,74,151,392,13,21,8,524,1,5,9,9,Match Report
+2022-03-16,21:00 (22:00),Champions Lg,Round of 16,Wed,Home,L,0,3,es Villarreal,654,621,33,5,1,54,13,13,7,3,3,0,520,47,87,127,488,13,13,4,570,2,10,13,19,Match Report
+2022-03-20,15:00 (16:00),Serie A,Matchweek 30,Sun,Home,W,2,0,Salernitana,557,506,51,13,1,97,13,10,5,1,4,0,420,67,70,157,353,7,23,6,477,1,9,20,7,Match Report
+2022-04-03,20:45,Serie A,Matchweek 31,Sun,Home,L,0,1,Inter,,,,,,,,23,,,,,,,,,,,,,,,,,,Match Report

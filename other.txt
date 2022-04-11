@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+2021-08-22,18:30,Serie A,Matchweek 1,Sun,Away,D,2,2,Udinese,3,0,0,16,13,3,7,13,9,0,1,0,57,7,11,38.9,Match Report
+2021-08-28,20:45,Serie A,Matchweek 2,Sat,Home,L,0,1,Empoli,2,0,0,15,8,1,27,17,7,0,0,0,82,16,14,53.3,Match Report
+2021-09-11,18:00,Serie A,Matchweek 3,Sat,Away,L,1,2,Napoli,1,0,0,16,15,3,7,12,7,0,0,0,50,9,13,40.9,Match Report
+2021-09-14,21:00,Champions Lg,Group stage,Tue,Away,W,3,0,se Malmö,1,0,0,13,16,4,11,8,11,1,0,0,71,8,7,53.3,Match Report
+2021-09-19,20:45,Serie A,Matchweek 4,Sun,Home,D,1,1,Milan,1,0,0,15,16,3,5,12,5,0,0,0,72,3,11,21.4,Match Report
+2021-09-22,18:30,Serie A,Matchweek 5,Wed,Away,W,3,2,Spezia,1,0,0,10,14,0,15,13,17,0,0,0,84,26,6,81.3,Match Report
+2021-09-26,12:30,Serie A,Matchweek 6,Sun,Home,W,3,2,Sampdoria,4,0,0,24,16,0,9,18,9,0,0,0,78,10,20,33.3,Match Report
+2021-09-29,21:00,Champions Lg,Group stage,Wed,Home,W,1,0,eng Chelsea,1,0,0,9,19,4,2,16,14,0,0,0,67,13,19,40.6,Match Report
+2021-10-02,18:00,Serie A,Matchweek 7,Sat,Away,W,1,0,Torino,1,0,0,16,22,0,6,10,5,0,0,0,106,32,22,59.3,Match Report
+2021-10-17,20:45,Serie A,Matchweek 8,Sun,Home,W,1,0,Roma,3,0,0,20,15,3,8,12,14,0,1,0,62,16,9,64.0,Match Report
+2021-10-20,22:00 (21:00),Champions Lg,Group stage,Wed,Away,W,1,0,ru Zenit,2,0,0,11,11,0,19,7,7,0,0,0,81,10,15,40.0,Match Report
+2021-10-24,20:45,Serie A,Matchweek 9,Sun,Away,D,1,1,Inter,2,0,0,19,15,3,11,17,7,1,0,0,67,19,21,47.5,Match Report
+2021-10-27,18:30,Serie A,Matchweek 10,Wed,Home,L,1,2,Sassuolo,1,0,0,23,17,8,21,10,10,0,0,0,81,16,5,76.2,Match Report
+2021-10-30,18:00,Serie A,Matchweek 11,Sat,Away,L,1,2,Hellas Verona,3,0,0,7,24,0,13,10,11,0,0,0,99,28,23,54.9,Match Report
+2021-11-02,21:00 (22:00),Champions Lg,Group stage,Tue,Home,W,4,2,ru Zenit,2,0,0,13,12,2,19,16,9,1,0,1,75,20,12,62.5,Match Report
+2021-11-06,18:00 (19:00),Serie A,Matchweek 12,Sat,Home,W,1,0,Fiorentina,2,0,0,17,18,5,11,14,8,0,0,0,78,17,17,50.0,Match Report
+2021-11-20,18:00 (19:00),Serie A,Matchweek 13,Sat,Away,W,2,0,Lazio,1,0,0,16,12,0,6,14,11,2,0,0,59,8,11,42.1,Match Report
+2021-11-23,20:00 (22:00),Champions Lg,Group stage,Tue,Away,L,0,4,eng Chelsea,1,0,0,15,15,0,2,20,16,0,0,0,70,22,14,61.1,Match Report
+2021-11-27,18:00 (19:00),Serie A,Matchweek 14,Sat,Home,L,0,1,Atalanta,4,0,0,16,23,1,12,12,10,0,0,0,100,25,12,67.6,Match Report
+2021-11-30,20:45 (21:45),Serie A,Matchweek 15,Tue,Away,W,2,0,Salernitana,1,0,0,11,14,3,13,11,12,1,0,0,83,10,8,55.6,Match Report
+2021-12-05,20:45 (21:45),Serie A,Matchweek 16,Sun,Home,W,2,0,Genoa,3,0,0,15,8,3,14,15,14,0,0,0,87,15,6,71.4,Match Report
+2021-12-08,18:45 (19:45),Champions Lg,Group stage,Wed,Home,W,1,0,se Malmö,1,0,0,8,13,0,12,14,16,0,0,0,101,17,11,60.7,Match Report
+2021-12-11,18:00 (19:00),Serie A,Matchweek 17,Sat,Away,D,1,1,Venezia,2,0,0,13,17,0,14,14,12,0,0,0,92,17,17,50.0,Match Report
+2021-12-18,18:00 (19:00),Serie A,Matchweek 18,Sat,Away,W,2,0,Bologna,1,0,0,20,10,1,11,15,5,0,0,0,87,20,9,69.0,Match Report
+2021-12-21,20:45 (21:45),Serie A,Matchweek 19,Tue,Home,W,2,0,Cagliari,0,0,0,18,15,3,13,8,7,0,0,0,93,28,24,53.8,Match Report
+2022-01-06,20:45 (21:45),Serie A,Matchweek 20,Thu,Home,D,1,1,Napoli,2,0,0,8,12,1,11,18,11,0,0,0,78,8,8,50.0,Match Report
+2022-01-09,18:30 (19:30),Serie A,Matchweek 21,Sun,Away,W,4,3,Roma,4,1,1,12,12,0,6,24,8,0,0,0,72,11,17,39.3,Match Report
+2022-01-12,21:00 (22:00),Supercoppa Italiana,Supercoppa Italiana,Wed,Away,L,1,2,Inter,3,0,0,17,17,,17,15,10,,,,,,,,Match Report
+2022-01-15,20:45 (21:45),Serie A,Matchweek 22,Sat,Home,W,2,0,Udinese,1,0,0,14,10,1,18,12,17,0,0,0,101,13,11,54.2,Match Report
+2022-01-18,21:00 (22:00),Coppa Italia,Round of 16,Tue,Home,W,4,1,Sampdoria,1,0,0,15,7,1,27,9,4,,,0,,,,,Match Report
+2022-01-23,20:45 (21:45),Serie A,Matchweek 23,Sun,Away,D,0,0,Milan,2,0,0,22,16,3,10,21,14,0,0,0,76,19,10,65.5,Match Report
+2022-02-06,20:45 (21:45),Serie A,Matchweek 24,Sun,Home,W,2,0,Hellas Verona,1,0,0,12,11,0,8,26,14,0,0,0,85,16,19,45.7,Match Report
+2022-02-10,21:00 (22:00),Coppa Italia,Quarter-finals,Thu,Home,W,2,1,Sassuolo,0,0,0,6,8,6,24,8,8,,,0,,,,,Match Report
+2022-02-13,20:45 (21:45),Serie A,Matchweek 25,Sun,Away,D,1,1,Atalanta,3,0,0,12,13,3,12,16,8,0,0,0,95,23,20,53.5,Match Report
+2022-02-18,20:45 (21:45),Serie A,Matchweek 26,Fri,Home,D,1,1,Torino,1,0,0,17,20,0,6,11,12,0,0,0,86,19,16,54.3,Match Report
+2022-02-22,21:00 (22:00),Champions Lg,Round of 16,Tue,Away,D,1,1,es Villarreal,1,0,0,15,14,3,7,16,8,0,0,0,66,10,11,47.6,Match Report
+2022-02-26,18:00 (19:00),Serie A,Matchweek 27,Sat,Away,W,3,2,Empoli,0,0,0,8,18,0,9,15,16,0,0,0,68,16,11,59.3,Match Report
+2022-03-02,21:00 (22:00),Coppa Italia,Semi-finals,Wed,Away,W,1,0,Fiorentina,2,0,0,13,16,0,8,5,6,,,0,,,,,Match Report
+2022-03-06,18:00 (19:00),Serie A,Matchweek 28,Sun,Home,W,1,0,Spezia,3,0,0,15,13,3,5,13,13,0,0,0,70,10,12,45.5,Match Report
+2022-03-12,18:00 (19:00),Serie A,Matchweek 29,Sat,Away,W,3,1,Sampdoria,2,0,0,17,7,1,9,7,10,1,1,0,61,11,9,55.0,Match Report
+2022-03-16,21:00 (22:00),Champions Lg,Round of 16,Wed,Home,L,0,3,es Villarreal,1,0,0,8,6,2,13,10,14,0,2,0,87,10,10,50.0,Match Report
+2022-03-20,15:00 (16:00),Serie A,Matchweek 30,Sun,Home,W,2,0,Salernitana,3,0,0,11,13,1,10,14,13,0,0,0,65,11,19,36.7,Match Report
+2022-04-03,20:45,Serie A,Matchweek 31,Sun,Home,L,0,1,Inter,4,0,0,9,17,2,23,4,9,,,0,,,,,Match Report

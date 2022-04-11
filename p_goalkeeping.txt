@@ -1,0 +1,3 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+Wojciech Szczęsny\01b8a2b2,pl POL,GK,31-351,35,35,3150,35.0,33,0.94,102,74,71.6,19,9,7,15,42.9,7,4,3,0,42.9,Matches
+Mattia Perin\4c62d0c8,it ITA,GK,29-145,8,8,750,8.3,8,0.96,28,21,75.0,6,0,2,3,42.9,1,1,0,0,0.0,Matches
